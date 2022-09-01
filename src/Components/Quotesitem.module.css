@@ -1,0 +1,21 @@
+.item {
+  background-color: #ffffff;
+  width: 35vw;
+  min-height: 30vh;
+  color: rgb(0, 0, 0);
+  padding: 2.5rem;
+  border-radius: 14px;
+  box-shadow: 2px 4px 33px 9px #ff0101b3;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h4{
+  font-size: 40px;
+}
+
+span{
+  font-size: 20px;
+}
